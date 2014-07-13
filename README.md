@@ -1,4 +1,6 @@
-pink-fluffy-unicorn-dancing-on-rainbow
-======================================
+![](https://raw.githubusercontent.com/drabiter/pink-fluffy-unicorn-dancing-on-rainbow/master/pfudor.png)
 
-pink fluffy unicorn dancing on your terminal
+- No annoying song
+- Another rainbow
+
+Originally by [@hungryzi](https://github.com/hungryzi/pink-fluffy-unicorn-on-rainbow)

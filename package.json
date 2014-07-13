@@ -1,0 +1,31 @@
+{
+  "name": "pink-fluffy-unicorn-dancing-on-rainbow",
+  "version": "0.0.1",
+  "author": "Hendra G.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drabiter/pink-fluffy-unicorn-dancing-on-rainbow/issues"
+  },
+  "homepage": "https://github.com/drabiter/pink-fluffy-unicorn-dancing-on-rainbow",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/drabiter/pink-fluffy-unicorn-dancing-on-rainbow"
+  },
+  "keywords": [
+    "pink",
+    "fluffy",
+    "unicorn",
+    "dance",
+    "rainbow"
+  ],
+  "description": "pink fluffy unicorn dancing on rainbow",
+  "engines": {
+    "node": ">=0.10"
+  },
+  "dependencies": {
+    "sleep": "^1.1.8"
+  },
+  "bin": {
+    "pink-fluffy-unicorn-dancing-on-rainbow": "pink-fluffy-unicorn-dancing-on-rainbow.js"
+  }
+}
