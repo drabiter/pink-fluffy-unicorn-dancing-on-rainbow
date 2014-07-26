@@ -5,14 +5,14 @@
 **Node-JavaScript**
 
 ```
-cd node-js/
+cd javascript/
 node pink-fluffy-unicorn-dancing-on-rainbow.js
 ```
 
 **Node-CoffeeScript**
 
 ```
-cd node-coffee/
+cd coffeescript/
 coffee pink-fluffy-unicorn-dancing-on-rainbow.coffee
 ```
 
@@ -27,6 +27,7 @@ java PinkFluffyUnicornDancingOnRainbow
 **C++**
 
 ```
+cd c++/
 g++ -std=c++0x pink_fluffy_unicorn_dancing_on_rainbow.cpp -o pink_fluffy_unicorn_dancing_on_rainbow
 ./pink_fluffy_unicorn_dancing_on_rainbow
 ```
