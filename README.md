@@ -2,17 +2,25 @@
 
 **Node-JavaScript**
 
-`node node-js/pink-fluffy-unicorn-dancing-on-rainbow.js`
+```
+cd node-js/
+node pink-fluffy-unicorn-dancing-on-rainbow.js
+```
 
 **Node-CoffeeScript**
 
-`coffee node-coffee/pink-fluffy-unicorn-dancing-on-rainbow.coffee`
+```
+cd node-coffee/
+coffee pink-fluffy-unicorn-dancing-on-rainbow.coffee
+```
 
 **Java**
 
-`javac PinkFluffyUnicornDancingOnRainbow.java`
-
-`java PinkFluffyUnicornDancingOnRainbow`
+```
+cd java/
+javac PinkFluffyUnicornDancingOnRainbow.java
+java PinkFluffyUnicornDancingOnRainbow
+```
 
 
 <hr>
