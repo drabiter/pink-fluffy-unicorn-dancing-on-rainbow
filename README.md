@@ -1,6 +1,9 @@
 ![](https://raw.githubusercontent.com/drabiter/pink-fluffy-unicorn-dancing-on-rainbow/master/pfudor.png)
 
-- No annoying song
-- Another rainbow
+## Node JavaScript
+`node node-js/pink-fluffy-unicorn-dancing-on-rainbow.js`
+## Node CoffeeScript
+`coffee node-coffee/pink-fluffy-unicorn-dancing-on-rainbow.coffee`
 
-Originally by [@hungryzi](https://github.com/hungryzi/pink-fluffy-unicorn-on-rainbow)
+
+Original idea in Ruby by [@hungryzi](https://github.com/hungryzi/pink-fluffy-unicorn-on-rainbow)
