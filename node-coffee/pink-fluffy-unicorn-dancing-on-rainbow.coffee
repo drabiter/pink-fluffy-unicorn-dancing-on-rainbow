@@ -49,7 +49,7 @@ rainbowify = (str, index) ->
   color = colors[index]
   "\x1b[38;5;" + color + "m" + str + "\x1b[0m"
 
-renderRainbow = (rainbow) ->
+renderRainbow = (counter) ->
   for i in [0...5]
     for j in [0...termWidth]
       _ = counter + j

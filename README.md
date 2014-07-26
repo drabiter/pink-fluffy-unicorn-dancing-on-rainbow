@@ -11,7 +11,9 @@
 **Java**
 
 `javac PinkFluffyUnicornDancingOnRainbow.java`
+
 `java PinkFluffyUnicornDancingOnRainbow`
 
 
+<hr>
 Original idea in Ruby by [@hungryzi](https://github.com/hungryzi/pink-fluffy-unicorn-on-rainbow)
