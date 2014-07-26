@@ -1,6 +1,6 @@
-<center>
 ![](https://raw.githubusercontent.com/drabiter/pink-fluffy-unicorn-dancing-on-rainbow/master/pfudor.png)
-</center>
+
+Available in 4 languages.
 
 **Node-JavaScript**
 
