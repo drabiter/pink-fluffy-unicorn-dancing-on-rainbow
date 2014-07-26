@@ -15,7 +15,7 @@ public class PinkFluffyUnicornDancingOnRainbow {
           "|         ∇ |",
           " ~~∪∪~~~∪∪~~ "
         };
-    private int[] COLORS = new int[]{31, 33, 32, 36, 35, 34};
+    private final int[] COLORS = new int[]{31, 33, 32, 36, 35, 34};
     private final int UNICORN_WIDTH = OPEN_UNICORN[0].length();
 
     private int termWidth = 64;
@@ -55,8 +55,8 @@ public class PinkFluffyUnicornDancingOnRainbow {
         print("\033c");
     }
 
-    private void renderSpace(int number) {
-        for (int i = 0; i < number; i++) {
+    private void renderSpace(int _offset) {
+        for (int i = 0; i < _offset; i++) {
             print(" ");
         }
     }
@@ -78,7 +78,7 @@ public class PinkFluffyUnicornDancingOnRainbow {
         return "\033[" + color + "m" + str + "\033[0m";
     }
 
-    private void renderRainbow() {
+    private void renderRainbow(int counter) {
         for (int i = 0; i < 5; i++) {
             for (int j = 0; j < termWidth; j++) {
                 long _ = counter + j;
@@ -96,6 +96,6 @@ public class PinkFluffyUnicornDancingOnRainbow {
         String[] _unicorn = (counter % 10 > 5)? OPEN_UNICORN : CLOSE_UNICORN;
         renderUnicorn(_unicorn);
 
-        renderRainbow();
+        renderRainbow(counter);
     }
 }
