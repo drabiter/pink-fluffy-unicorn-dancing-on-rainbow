@@ -47,5 +47,7 @@ fpc PinkFluffyUnicornDancingOnRainbow.pas
 - Most of them don't follow the best pratice in each language's habitat.
 - Original idea in Ruby by [@hungryzi](https://github.com/hungryzi/pink-fluffy-unicorn-on-rainbow), that's why no Ruby version here.
 - Different terminal may give different result.
+- Code are not optimized yet.
+- Have experienced Assembly and Visual Basic 6 but no.
 - This README is too long for a joke repo.
 
